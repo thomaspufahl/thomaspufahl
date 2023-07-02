@@ -1,2 +1,2 @@
-### Thomas Pufahl | Software developer 🚀
+## Thomas Pufahl | Software developer 🚀
 ---
