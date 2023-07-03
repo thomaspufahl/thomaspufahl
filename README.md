@@ -10,6 +10,12 @@
         <tr>
             <th colspan="4"> ⭐ I like work with ⭐ </th>
         </tr>
+		<tr>
+            <th>Language</th>
+            <th>Web technology</th>
+            <th>Data base</th>
+            <th>Cloud platform</th>
+        </tr>
     </thead>
     <tbody>
         <tr>
