@@ -13,26 +13,26 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td>Backend</td>
-            <td>Frontend</td>
-            <td>Data bases</td>
+            <td>Generic</td>
+            <td>Web</td>
+            <td>Data base</td>
+            <td>Cloud</td>
         </tr>
         <tr>
             <td>C++ 🔵 </td>
             <td>Springboot 🍃 </td>
-            <td>Angular 🅰️ </td>
             <td>SQL 🗃️ </td>
+            <td>GCP</td>
         </tr>
 		<tr>
             <td>C# 🟣 </td>
             <td>Node.js 🟢 </td>
             <td></td>
-            <td></td>
+            <td>Azure</td>
         </tr>
 		<tr>
             <td>Java ☕ </td>
-            <td></td>
+            <td>Angular 🅰️ </td>
             <td></td>
             <td></td>
         </tr>
