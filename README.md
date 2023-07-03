@@ -1,3 +1,3 @@
 ## Thomas Pufahl | Software developer 🚀 
 ---
-![Static Badge](https://img.shields.io/badge/thomaspufahl-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthomaspufahl%2F)
+[![Linkedin Badge](https://img.shields.io/badge/-thomaspufahl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaspufahl/)
