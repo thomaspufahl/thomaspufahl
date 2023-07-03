@@ -1,6 +1,6 @@
 ## Thomas Pufahl | Software developer 🚀 
 
-**I'm developer and teaching assistant.** 🤓
+### I'm developer and teaching assistant. 🤓
 
 * Specialized in C++ projects.
 * Experienced in web apps and cloud platforms such as GCP and Azure. 
