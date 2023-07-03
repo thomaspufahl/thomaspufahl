@@ -1,14 +1,14 @@
 ## Thomas Pufahl | Software developer 🚀 
 
-**I'm developer and teaching assistant.**
+**I'm developer and teaching assistant.** 🤓
 
-Specialized in C++ projects.
-Experienced in web apps and cloud platforms such as GCP and Azure.
+* Specialized in C++ projects.
+* Experienced in web apps and cloud platforms such as GCP and Azure. 
 
 <table >
     <thead>
         <tr>
-            <th colspan="4">I like work with</th>
+            <th colspan="4"> ⭐ I like work with ⭐ </th>
         </tr>
     </thead>
     <tbody>
@@ -19,14 +19,14 @@ Experienced in web apps and cloud platforms such as GCP and Azure.
             <td>Data bases</td>
         </tr>
         <tr>
-            <td>C++</td>
-            <td>Springboot</td>
-            <td>Angular</td>
-            <td>SQL</td>
+            <td>C++ 🔵 </td>
+            <td>Springboot 🍃 </td>
+            <td>Angular 🅰️ </td>
+            <td>SQL 🗃️ </td>
         </tr>
 		<tr>
-            <td>C#</td>
-            <td>Node.js</td>
+            <td>C# 🟣 </td>
+            <td>Node.js 🟢 </td>
             <td></td>
             <td></td>
         </tr>
