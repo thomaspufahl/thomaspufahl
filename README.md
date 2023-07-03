@@ -13,7 +13,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>Software</td>
+            <td></td>
             <td>Backend</td>
             <td>Frontend</td>
             <td>Data bases</td>
@@ -27,6 +27,12 @@
 		<tr>
             <td>C# 🟣 </td>
             <td>Node.js 🟢 </td>
+            <td></td>
+            <td></td>
+        </tr>
+		<tr>
+            <td>Java ☕ </td>
+            <td></td>
             <td></td>
             <td></td>
         </tr>
