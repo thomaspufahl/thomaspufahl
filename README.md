@@ -4,36 +4,6 @@ I'm developer and teaching assistant.
 
 Specialized in C++ projects. 
 Experienced in web apps and cloud platforms such as GCP and Azure.
-<style>
-table {
-  border-collapse: collapse;
-  border: 1px solid black;
-} 
-
-th,td {
-  border: 1px solid black;
-}
-
-table.a {
-  table-layout: auto;
-  width: 180px;  
-}
-
-table.b {
-  table-layout: fixed;
-  width: 180px;  
-}
-
-table.c {
-  table-layout: auto;
-  width: 100%;  
-}
-
-table.d {
-  table-layout: fixed;
-  width: 100%;  
-}
-</style>
 
 <table >
     <thead>
