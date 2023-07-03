@@ -1,6 +1,6 @@
 ## Thomas Pufahl | Software developer 🚀 
 
-### I'm Programming career student and teaching assistant in C++ Lab at Universidad Tecnológica Nacional.
+### I'm Programming career student and teaching assistant in C++ Lab. 
 
 * Specialized in C++ projects.
 * Experienced in web apps and cloud platforms such as GCP and Azure. 
