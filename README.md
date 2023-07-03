@@ -13,16 +13,10 @@
     </thead>
     <tbody>
         <tr>
-            <td>Generic</td>
-            <td>Web</td>
-            <td>Data base</td>
-            <td>Cloud</td>
-        </tr>
-        <tr>
             <td>C++ 🔵 </td>
             <td>Springboot 🍃 </td>
             <td>SQL 🗃️ </td>
-            <td>GCP</td>
+            <td>Google Cloud Platform</td>
         </tr>
 		<tr>
             <td>C# 🟣 </td>
