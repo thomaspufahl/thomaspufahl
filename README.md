@@ -5,7 +5,7 @@
 * Specialized in C++ projects.
 * Experienced in web apps and cloud platforms such as GCP and Azure. 
 
-### ⭐ I like work with ⭐
+### ⭐ I like to work with ⭐
 * C++ 🔵
 * Java ☕
 * Springboot 🍃
