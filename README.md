@@ -1,11 +1,11 @@
 ## Thomas Pufahl | Software developer 🚀 
 
-#### I'm advanced student at Programming and Computer Systems and C++ Programming Teaching Assistant. 🫡
+### I'm advanced student at Programming and Computer Systems and C++ Programming Teaching Assistant. 🫡
 
 * Specialized in C++ projects.
 * Experienced in web apps and cloud platforms such as GCP and Azure. 
 
-#### ⭐ I like to work with ⭐
+### ⭐ I like to work with ⭐
 * C++ 🔵
 * Java ☕
 * Springboot 🍃
