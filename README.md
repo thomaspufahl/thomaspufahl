@@ -1,6 +1,6 @@
 ## Thomas Pufahl | Software developer 🚀 
 
-### I'm Programming career student and teaching assistant in C++ Lab. 📚
+### I'm advanced student in Programming and Computer Systems and C++ Programming Teaching Assistant. 🫡
 
 * Specialized in C++ projects.
 * Experienced in web apps and cloud platforms such as GCP and Azure. 
