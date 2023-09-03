@@ -1,4 +1,4 @@
-## Thomas Pufahl | Desarrollador de Software  
+## Thomas Pufahl | Desarrollador de Software  💯
 
 ### Estudiante avanzado de Programación y Sistemas Informáticos  y Ayudante de Cátedra de Programación en C++.
 
