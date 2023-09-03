@@ -1,8 +1,9 @@
 ## Thomas Pufahl | Desarrollador de Software  💯
 
-### Estudiante avanzado de Programación y Sistemas Informáticos  y Ayudante de Cátedra de Programación en C++.
+### - Estudiante avanzado de Programación y Sistemas Informáticos
+### - Ayudante de Cátedra de Programación en C++.
 
-#### ¿Qué desarrollo actualmente? 🧐
+#### ¿E desarrollo actualmente? 🧐
 * Desarrollo aplicaciones de escritorio y web sobre .NET Framework con C#.
 * Elaboro scripts con T-SQL sobre Microsoft SQL Server para utilizar bases de datos. 
  
