@@ -2,15 +2,15 @@
 
 ### Estudiante avanzado de Programación y Sistemas Informáticos y Ayudante de Cátedra de Programación en C++.
 
-#### ¿E desarrollo actualmente? 🧐
-* Desarrollo aplicaciones de escritorio y web sobre .NET Framework con C#.
-* Elaboro scripts con T-SQL sobre Microsoft SQL Server para utilizar bases de datos. 
+####  ¿En qué me especializo? 🧐
+* Aplicaciones de escritorio y web sobre .NET Framework con C#.
+* Scripts con T-SQL sobre Microsoft SQL Server para utilizar bases de datos. 
  
 #### Proyectos en progreso 🚀
 * Blog personal sobre programación.
 * Aplicación de escritorio para la gestion información sobre animales rescatados y el seguimiento de adopción para un refugio de animales.
 
-#### Me gusta experimentar y desarrollar ⬇️
+#### Me gusta experimentar y desarrollar: ⬇️
 * Aplicaciones web con Astro 🪐
 * Plugins de juegos con Java ☕
 * Programas de consola con fines educativos en C++🔵.
