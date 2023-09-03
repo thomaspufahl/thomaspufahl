@@ -1,16 +1,18 @@
-## Thomas Pufahl | Software developer 🚀 
+## Thomas Pufahl | Desarrollador de Software  
 
-### I'm advanced student at Programming and Computer Systems and C++ Programming Teaching Assistant. 🫡
+### Estudiante avanzado de Programación y Sistemas Informáticos  y Ayudante de Cátedra de Programación en C++.
 
-* Specialized in C++ projects.
-* Experienced in web apps and cloud platforms such as GCP and Azure. 
+#### ¿Qué desarrollo actualmente? 🧐
+* Desarrollo aplicaciones de escritorio y web sobre .NET Framework con C#.
+* Elaboro scripts con T-SQL sobre Microsoft SQL Server para utilizar bases de datos. 
+ 
+#### Proyectos en progreso 🚀
+* Blog personal sobre programación.
+* Aplicación de escritorio para la gestion información sobre animales rescatados y el seguimiento de adopción para un refugio de animales.
 
-### ⭐ I like to work with ⭐
-* C++ 🔵
-* Java ☕
-* Springboot 🍃
-* Angular 🅰️
-* Node.js 🟢
-* SQL 🗃️
+#### Me gusta experimentar y desarrollar ⬇️
+* Aplicaciones web con Astro 🪐
+* Plugins de juegos con Java ☕
+* Programas de consola con fines educativos en C++🔵.
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-thomaspufahl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaspufahl/)  [![Resume Badge](https://img.shields.io/badge/-CV_ENG-d20001?style=flat&labelColor=d20001&logo=DocuSign&logoColor=white)](https://drive.google.com/file/d/1XBDsVbPnSuVzjNg8dS0L76kNFTrE7a5O/view?usp=sharing) [![Resume Badge](https://img.shields.io/badge/-CV_ESP-d20001?style=flat&labelColor=d20001&logo=DocuSign&logoColor=white)](https://drive.google.com/file/d/1BKxM_bkYU5wtKqX5P1CpXaQuJTs8QWYk/view?usp=sharing)
+[![Linkedin Badge](https://img.shields.io/badge/-thomaspufahl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaspufahl/) [![Resume Badge](https://img.shields.io/badge/-CV-d20001?style=flat&labelColor=d20001&logo=DocuSign&logoColor=white)](https://drive.google.com/file/d/1JeuSk72FWE-stzW_UTwMxp-zUz8Z9Xgb/view?usp=sharing)
