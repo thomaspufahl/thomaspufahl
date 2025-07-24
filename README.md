@@ -14,7 +14,7 @@ Actualmente, trabajo como desarrollador y mi foco está en el **desarrollo web c
 
 ### Proyectos e Iniciativas Destacadas ✨
 
-* **Colidevs (Fundador y Líder):**
+* **Colidevs (Fundador y Líder):** [@colidevs](https://github.com/colidevs)
     * Comunidad dedicada a capacitar nuevos desarrolladores web. ¡El **100% de nuestra primera camada ya consiguió empleo**!
     * Coordinamos equipos para construir productos como **Colitienda** (catálogo multi-tenant para emprendedores).
     * Proveemos **servicios IT integrales a ONGs**, incluyendo el **Santuario Jaulas Vacías**.
