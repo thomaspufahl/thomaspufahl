@@ -1,19 +1,37 @@
-## Thomas Pufahl | Desarrollador de Software 💯
+## Thomas Pufahl | Infra & Web Developer | ✨ NextJS lover ✨
 
-### Estudiante avanzado de Programación y Sistemas Informáticos y Ayudante de Cátedra de Programación en C++.
+Hola 👋 Soy Thomas Pufahl, de Buenos Aires, Argentina.
 
-####  ¿En qué me especializo? 🧐
-* Aplicaciones de escritorio y web sobre .NET Framework con C#.
-* Scripts con T-SQL sobre Microsoft SQL Server para utilizar bases de datos. 
- 
-#### Proyectos en progreso 🚀
-* Blog personal sobre programación.
-* Aplicación de escritorio para la gestion información sobre animales rescatados y el seguimiento de adopción para un refugio de animales.
+Cursé la carrera de Técnico Universitario en Programación en la UTN. 
+Actualmente, trabajo como desarrollador y mi foco está en el **desarrollo web con TypeScript, React y NextJS**. 🥝
 
-#### Me gusta experimentar y desarrollar: ⬇️
-* Aplicaciones web con Astro 🪐
-* Plugins de juegos con Java ☕
-* Programas de consola con fines educativos en C++🔵
-* Scripts en PowerShell para automatizar procesos.
+### ¿En qué me muevo? 🧐
+
+* **Desarrollo Web:** Me gusta trabajar con **TypeScript, React, y NextJS**.
+    * **Hobby:** Disfruto experimentando y desarrollando apps con **Astro** 🪐.
+* **Infraestructura:** Tengo experiencia implementando **Docker, Nginx, Traefik y Cloudflare**.
+    * Me interesa mucho participar en proyectos con **plataformas cloud (GCP o AWS)**.
+
+### Proyectos e Iniciativas Destacadas ✨
+
+* **Colidevs (Fundador y Líder):**
+    * Comunidad dedicada a capacitar nuevos desarrolladores web. ¡El **100% de nuestra primera camada ya consiguió empleo**!
+    * Coordinamos equipos para construir productos como **Colitienda** (catálogo multi-tenant para emprendedores).
+    * Proveemos **servicios IT integrales a ONGs**, incluyendo el **Santuario Jaulas Vacías**.
+* **Santuario Jaulas Vacías (Voluntario):**
+    * Apoyamos con servicios de IT: desarrollo web, portal de adopciones, automatizaciones.
+    * Nuestro objetivo es digitalizar el santuario y optimizar su flujo de trabajo para que ganen más tiempo dedicado al rescate de animales. 🍋
+* **Docencia (UTN):**
+    * Auxiliar Docente de Programación en C++. Disfruto compartir conocimiento y facilitar el aprendizaje.
+    * Me gustaría enseñar programación o informática como profesor en un colegio en el futuro. 🍎
+
+### Un poco más sobre mí ⬇️
+
+* Disfruto trabajar en equipo y buscar soluciones que generen un impacto positivo.
+* Los domingos, me recargo con mi familia.
+* Hago atletismo, mi cable a tierra, y la música es clave para mi equilibrio. 💚
+* Soy vegano 🥦
+
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-thomaspufahl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaspufahl/) [![Resume Badge](https://img.shields.io/badge/-CV-d20001?style=flat&labelColor=d20001&logo=DocuSign&logoColor=white)](https://drive.google.com/file/d/1JeuSk72FWE-stzW_UTwMxp-zUz8Z9Xgb/view?usp=sharing)
+
+[![Linkedin Badge](https://img.shields.io/badge/-thomaspufahl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaspufahl/)
